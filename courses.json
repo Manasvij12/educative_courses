@@ -489,3 +489,13 @@
     "module_number": 9,
     "certification": "paid"
   },
+  {
+    "id": 103,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Machine Learning with NumPy, pandas, scikit-learn, and More",
+    "link": "https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn",
+    "difficulty": "intermediate",
+    "module_number": 9,
+    "certification": "paid"
+  },
