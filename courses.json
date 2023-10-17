@@ -499,3 +499,13 @@
     "module_number": 9,
     "certification": "paid"
   },
+  {
+    "id": 104,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "From Python to Numpy",
+    "link": "https://www.educative.io/courses/from-python-to-numpy",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
